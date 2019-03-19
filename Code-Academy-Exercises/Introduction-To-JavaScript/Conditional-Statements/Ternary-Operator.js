@@ -6,9 +6,6 @@ let isCorrect = true;
 
 isCorrect ? console.log('Correct!') : console.log('Incorrect!');
 
-
 let favoritePhrase = 'Love That!';
 
-
-if (favoritePhrase === 'Love That!')
-favoritePhrase ? console.log('I love that!') : console.log("I don't love that!");
+favoritePhrase === 'Love That!' ? console.log('I love that!') : console.log("I don't love that!");
