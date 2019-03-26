@@ -1,8 +1,7 @@
 # TG-Pre-Work
 
 ## When we hit https://www.techtonicgroup.com/ what happens? Don’t focus too much on architecture (Monolithic, SOA, Microservices, etc.). Try to focus more on how the web functions.
-
-put your answer here
+Each side needs a software for exchanging the data. As far as the client is concerned, he has to use a Web browser like Internet explorer, Mozilla, Netscape, etc. On the server side, a variety of softwares is available.
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
