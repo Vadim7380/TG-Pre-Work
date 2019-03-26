@@ -34,4 +34,4 @@ runtime is the time during which a program is running
 
 ## How many instances of the the databases connected to the server application are created?
 
-put your answer here
+WE can run multiple instances of the Database on a computer. One instance can be the default instance. The default instance has no name. If a connection request specifies only the name of the computer, the connection is made to the default instance.
