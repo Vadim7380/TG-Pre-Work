@@ -6,11 +6,11 @@ put your answer here
 
 ## From start to finish how does that data reach you to be rendered in the browser?
 
-put your answer here
+The browser sends an HTTP request message to the server, asking it to send a copy of the website to the client. This message, and all other data sent between the client and the server, is sent across your internet connection using TCP/IP.
 
 ## What code is rendered in the browser?
 
-put your answer here
+HTML
 
 ## What is the server-side code’s main function?
 
